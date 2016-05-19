@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocuSignChallenge", "DocuSignChallenge\DocuSignChallenge.csproj", "{1DDDB677-4B42-4986-B602-85F7362714F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocuSignChallengeUnitTestProject", "DocuSignChallengeUnitTestProject\DocuSignChallengeUnitTestProject.csproj", "{5ED4D48F-AFC3-4BEE-857E-62214EDF42E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDDB677-4B42-4986-B602-85F7362714F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDDB677-4B42-4986-B602-85F7362714F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDDB677-4B42-4986-B602-85F7362714F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDDB677-4B42-4986-B602-85F7362714F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED4D48F-AFC3-4BEE-857E-62214EDF42E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED4D48F-AFC3-4BEE-857E-62214EDF42E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED4D48F-AFC3-4BEE-857E-62214EDF42E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED4D48F-AFC3-4BEE-857E-62214EDF42E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
